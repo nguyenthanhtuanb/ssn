@@ -1,0 +1,10 @@
+/nbproject
+.idea/workspace.xml
+.idea/*
+# 
+node_modules/*
+dest/*
+tmp/*
+git 
+Network - Shortcut
+
